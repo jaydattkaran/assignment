@@ -1,0 +1,10 @@
+{
+  "name": "npm-karan",
+  "version": "1.0.0",
+  "description": "A CLI tool to describe Jaydatt",
+  "main": "cli.js",
+  "bin": {
+    "npm-karan": "./cli.js"
+  },
+  "dependencies": {}
+}
